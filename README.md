@@ -1,4 +1,4 @@
-# I’ve been involved in everything related to web development
+# For several years, I’ve been involved in everything related to web development
 ![](https://komarev.com/ghpvc/?username=Eric-fgm)
 
 ### Programming Languges & Technologies
